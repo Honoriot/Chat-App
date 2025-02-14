@@ -1,0 +1,7 @@
+export const orage = 'rgb(252, 169, 0)'
+export const black = 'rgb(82, 81, 80)'
+export const white = 'rgb(255, 255, 255)'
+export const green800 = 'rgb(0, 61, 5)'
+export const green700 = 'rgb(0, 120, 10)'
+export const green600 = 'rgb(0, 133, 11)'
+export const green200 = 'rgb(201, 255, 206)'
