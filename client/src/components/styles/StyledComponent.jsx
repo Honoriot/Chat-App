@@ -42,6 +42,16 @@ background-color: ${'rgba(215, 218, 215, 0.8)'};
 font-size: 1.2rem;
 `
 
-export const curveButton = styled('button')`
+export const CurveButton = styled('button')`
+border-radius: 1.5rem;
+padding: 1rem 2rem;
 border: none;
+outline: none;
+cursor: pointer;
+background-color: ${'rgba(0, 0, 0, 0.8)'};
+color: white;
+font-size: 1.1rem;
+&:hover {
+background-color: rgba(31, 30, 30, 0.8);
+}
 `
